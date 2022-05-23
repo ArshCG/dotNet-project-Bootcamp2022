@@ -4,7 +4,7 @@ use Cricket
 go
 
 create table country(id int primary key identity(1,1),country_name varchar(30),continent_name varchar(30),country_code varchar(30));
-select * from country;
+
 
 Insert into country values('India','Asia','+91');
 Insert into country values('Australia','Australia','+61');
