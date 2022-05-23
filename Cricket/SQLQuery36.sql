@@ -79,7 +79,7 @@ Insert into player values('Trent Boult',30,5)
 Insert into player values('Ish Sodhi',29,5)
 Insert into player values('Lockie Ferguson',33,5)
 
-select * from player;
+
 
 
 
@@ -102,10 +102,7 @@ insert into matches values(3,3,4,null,'2022-05-30 11:00:00','yes');
 insert into matches values(4,4,2,null,'2022-06-01 11:00:00','yes');
 insert into matches values(5,5,1,null,'2022-06-02 11:00:00','yes');
 
-select * from country;
-select * from player;
-select * from stadium;
-select * from matches;
+
 
 
 
